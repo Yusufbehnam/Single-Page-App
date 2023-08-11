@@ -7,6 +7,8 @@ Aşağıdaki siteden hash tag ile ilgili bilgi alabiiliriz.
 
 https://developer.mozilla.org/en-US/docs/Web/API/Location
 
+![Ekran](./img.png)
+
 
 
 
